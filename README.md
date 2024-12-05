@@ -14,7 +14,7 @@ The dataset analyzed provides comprehensive insights into employee demographics,
 - **Demographic Attributes:** Includes data on age, gender, marital status, and nationality, enabling insights into diversity and representation within the workforce.
 - **Professional Attributes:** Captures key details like work sector, occupation, and weekly work hours, facilitating analysis of employment patterns.
 - **Diversity Insights:** Employees from 41 nationalities are represented, highlighting cultural richness and inclusivity.
-- **Age Distribution:** Spanning age groups from early-career (10-20 years) to experienced professionals (91-100 years), with the majority falling in the 21-50 age range.
+- **Age Distribution:** Spanning age groups from early-career (17 years) to experienced professionals (91 years), with the majority falling in the 21-50 age range.
 - **Sector Engagement:** Employees are predominantly engaged in the private sector, with significant representation in roles such as Craft Repair, Professional-Specialty, and Executive-Managerial.
 
 ## Purpose of the Analysis
