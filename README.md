@@ -10,6 +10,9 @@ The dataset analyzed provides comprehensive insights into employee demographics,
 
 [Kaggle Notebook](https://www.kaggle.com/code/hafshawahab/employee-income-analysis)
 
+## Problem Statement
+The dataset aims to analyze workforce demographics and work patterns to identify trends in overtime work, sectoral employment, and diversity representation. The objective is to provide actionable insights for employers to improve employee well-being, inclusivity, and productivity, especially for female and elderly employees in the private sector.
+
 ## Key Features
 - **Demographic Attributes:** Includes data on age, gender, marital status, and nationality, enabling insights into diversity and representation within the workforce.
 - **Professional Attributes:** Captures key details like work sector, occupation, and weekly work hours, facilitating analysis of employment patterns.
